@@ -1,5 +1,5 @@
 # testrep
 mytestrep
-##hoge
-#fuga
+## hoge
+# fuga
 - this
